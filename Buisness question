@@ -1,0 +1,22 @@
+📌 EDA Business Questions (10)
+1️⃣ Which cities generate the highest food demand based on votes and reviews?
+ 2️⃣ Which cuisines are most popular in each city?
+ 3️⃣ Which restaurants have the highest dining vs delivery ratings?
+ 4️⃣ How does price impact ratings?
+ 5️⃣ What are the most popular best-seller items across cities?
+6️⃣ Which cities have the highest-priced food on average?
+7️⃣ Which restaurant is consistently rated high in both dining & delivery?
+8️⃣ Does higher restaurant popularity lead to better average ratings?
+9️⃣ Which cuisines are considered expensive vs cheap across cities?
+🔟 Which cities have more expensive food markets overall?
+📌 SQL Market Analysis Questions (10)
+1️⃣ Which are the top 5 most popular restaurants in each city based on total votes?
+2️⃣ Which cuisine delivers the highest revenue potential by comparing average price and average dining rating in each city?
+3️⃣ Which items contribute the most to their restaurant’s popularity score (Restaurant_Popularity)?
+4️⃣ Which restaurants have significantly higher dining rating than the overall city dining rating?
+5️⃣ Identify restaurants where delivery performance is falling behind dining performance (large rating gap).
+6️⃣ Which cities pay the highest premium on food pricing compared to their cuisine average price?
+7️⃣ Which cuisines consistently hold high ratings across multiple cities (with ranking)?
+8️⃣ Which restaurants offer premium-priced items but still receive poor ratings (weak value)?
+9️⃣ Find restaurants that dominate in their cuisine category based on popularity within their city.
+🔟 Which cities have the most highly-rated and expensive food items — indicating premium market zones?
