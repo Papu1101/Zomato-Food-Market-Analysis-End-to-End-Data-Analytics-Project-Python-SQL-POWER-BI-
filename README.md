@@ -58,7 +58,6 @@ Source: Zomato restaurant dataset (cleaned version)
 
 ✔ Complete business analytics strategy
 ✔ Strong visual storytelling & insights
-✔ Recruiter-friendly dashboard & SQL logic
 ✔ End-to-end project delivery
 
 Includes → Restaurant, City, Cuisine, Prices, Votes, Ratings, Popularity indicators
